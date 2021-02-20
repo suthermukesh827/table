@@ -1,0 +1,77 @@
+#one{
+
+    background-color:white
+    padding: 15px;
+}
+*{
+    padding: 0px;
+}
+#two{
+    height:20px;
+    
+    
+}
+#three{
+    background-color: rgb(17, 236, 17);
+    width: 60px;
+}
+#four{
+    color: rgb(17, 218, 207);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+#four:hover{
+    color: rgb(112, 117, 104);
+    
+}
+#five{
+    color: rgba(0, 0, 0, 0.774);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#five:hover{
+    background-color: rgb(113, 117, 106);
+}
+    
+
+#six{
+    color: rgba(0, 0, 0, 0.76);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#six:hover{
+    background-color: rgb(121, 124, 117);
+}
+#seven{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgba(0, 0, 0, 0.733);
+}
+#seven:hover{
+    background-color: rgb(118, 121, 112);
+}
+#eight{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(0, 0, 0, 0.849);
+}
+#eight:hover{
+    background-color: rgb(123, 128, 117);
+}
+#nine{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 30px;
+    background-color: rgb(2, 173, 54);
+    
+    color: rgb(1, 8, 1);
+}
+#nine:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: rgb(9, 126, 53);
+    height:30px;
+
+}
+
+#ten:hover{
+    background-color: rgb(88, 94, 75);
+
+}
